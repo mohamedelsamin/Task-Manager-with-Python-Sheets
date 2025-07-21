@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1BkQJ1reTInWVyzQVYEP-N56pIhbBmkzj
 """
 
-!pip install --upgrade gspread
-!pip install --upgrade gspread_dataframe
-
 from google.colab import auth
 auth.authenticate_user()
 
